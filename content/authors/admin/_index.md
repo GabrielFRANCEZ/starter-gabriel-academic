@@ -18,21 +18,22 @@ bio: My research interests include data protection, security, digital trust.
 
 # Interests to show in About widget
 interests:
-  - Cyber-secruity
-  - 
-  - 
+  - Pentesting
+  - Cryptography
+  - Digital Trust
+  - Coding in Rust
 
 # Education to show in About widget
 education:
   courses:
     - course: PhD in Cybersecurity
-      institution: Université de Technologie de Compiègne
+      institution: University of Technology of Compiègne - France
       year: 2025
     - course: MEng in Computer Systems Engineering
-      institution: Université de Technologie de Compiègne
+      institution: University of Technology of Compiègne - France
       year: 222
-    - course: DUT in Computer Sciences
-      institution: IUT Informatique de Reims
+    - course: Technical Degree computer science
+      institution: Reims Institute of Technology - France
       year: 2019
 
 # Social/Academic Networking
@@ -70,7 +71,7 @@ email: ''
 highlight_name: true
 ---
 
-Gabriel Francez is a PhD student of Cybersecuritu at the UTC Heudiasyc Lab. His research interests include data security, digital trust, identity and access management.
+Gabriel Francez is a PhD student in Cyber-security at the UTC's Heudiasyc Lab. His research interests include data security, digital trust, identity and access management.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
